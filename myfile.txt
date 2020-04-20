@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 hello
-=======
 adding..
->>>>>>> issue1
+hi 
